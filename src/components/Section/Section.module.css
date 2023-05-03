@@ -1,0 +1,11 @@
+.section {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+  }
+  
+  .title {
+    font-weight: 700;
+    font-size: 22px;
+  }
