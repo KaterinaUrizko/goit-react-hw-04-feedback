@@ -15,12 +15,14 @@ function App ()  {
     switch (option) {
       case 'good':
         setGood(good+1);
+        break;
       case 'neutral':
         setNeutral(neutral+1);
+        break;
       case 'bas' : 
         setBad(bad+1);  
         break;
-        default: return;
+        default: break;
     }
   };
 
